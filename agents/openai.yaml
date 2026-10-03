@@ -1,0 +1,4 @@
+interface:
+  display_name: "Receipts"
+  short_description: "Capture accomplishments with credible evidence"
+  default_prompt: "Use $receipts to record this accomplishment and its demonstrated impact."

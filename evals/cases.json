@@ -1,0 +1,8 @@
+{
+  "cases": [
+    {"id": "unknown-impact", "tests": "record work without inventing unmeasured benefits"},
+    {"id": "team-attribution", "tests": "separate the user's contribution from team outcomes and collaborator work"},
+    {"id": "enrich-not-duplicate", "tests": "add later adoption evidence to an existing receipt using a valid overall evidence level"},
+    {"id": "summary-no-write", "tests": "produce an outcome-first summary without modifying the ledger"}
+  ]
+}
